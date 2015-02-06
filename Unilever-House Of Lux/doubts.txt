@@ -1,0 +1,34 @@
+1.	Cross sign 
+
+1.) 	div.comments>a:first-child{
+	color: blue;
+	}
+
+
+---- aside div length not coming equal
+
+
+2.)	div.comments span>a{
+	color: rgba(0,0,0,0.6);
+	}
+
+	div.comments span  // using it directly not applied
+
+	
+3.)	transformed image is coming out of frame.
+
+4.)	give more classes to one tag
+
+
+5.)	on hover overwrite details div not coming
+
+6.)	dropdown menu problem
+
+7.) 	hover css properties not shown in console
+
+8.)     div.carousel hover property not working
+
+9.) /*div.welcome>a:hover +.not-logged-in{ 
+	display: none;   
+      not working
+
